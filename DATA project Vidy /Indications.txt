@@ -1,0 +1,56 @@
+Lexique
+
+"NUMERO DU CONTACT" ("INDIVIDUEL"): un numéro à (5 ou) 6 chiffres identifie la personne, et permet de relier les deux tableaux (ventes et base de données spectateurices)
+
+"FAMILLE DE PRODUIT": correspond aux différents produits paramétrés.
+Les spectacles sont les produits qui nous intéressent en particulier : ils sont notés en majuscule et ont une grille tarifaire complexe. Les spectacles ayant une entrée libre ou un tarif unique sont annexes à notre programmation.
+Les "Prestation" sont les événements plus légers (conférence, débat, rencontre, stage, navette), souvent gratuits.
+Il y a aussi des "abonnements", des "bons cadeaux" et parfois des "packages" (qui regroupent plusieurs éléments).
+
+"DOSSIER": un dossier est une réservation/vente, au nom d'une ou plusieurs personnes, pour un ou plusieurs spectacles.
+
+"ORDRE": chaque modification d'une réservation (ie d'un dossier) entraîne la création d'un nouvel ordre.
+
+"DATE DE CLÔTURE ET HEURE DE L'ORDRE": Cette colonne donne la dernière impression du billet. Lorsqu'il n'y a qu'une opération (un achat en ligne par exemple), cette information donne l'heure d'achat du billet.
+
+"OPERATEUR D'ACHAT": Opérateur qui a effectué la vente (avec son acronyme). MAO / LEM / LNE / ARU travaillent en backoffice, les autres sont des employé.e.s du guichet.
+Si l'opérateur est "VIDY_TICKSHOP", c'est un achat en ligne. Si c'est "VIDY_TICKDEC", c'est une filière de vente en ligne particulière. Si c'est "VIDY_TICKINT", c'est une filière de vente en ligne réservée aux internes (supprimée depuis). Si c'est "VIDY_TICKPRO", c'est une filière de vente en ligne réservée aux pros (supprimée depuis). Pour finir, "VIDY_PYT" est l'opérateur utilisé à notre second point de vente, à Payot Lausanne.
+
+"DATE HEURE DU PRODUIT": date et heure de la représentation
+
+Le "TARIF" est le nom interne du tarif, son montant est indiqué dans "PRIX UNITAIRE"
+
+fichier "TOUS LES CONTACTS ANONYMISES": à partir de la colonne Q, ce sont des "critères", à savoir des indications que les personnes nous ont donné (volonté de recevoir telle communication par exemple), ou que nous leur avons attribué (intérêt pour l'écologie, etc.)
+
+
+IL Y A BEAUCOUP DE CAS PARTICULIERS: ne pas hésiter à nous poser des questions!
+
+
+Glossary
+
+‘CONTACT NUMBER‘ (’INDIVIDUAL"): a (5 or) 6-digit number identifies the person, and is used to link the two tables (sales and spectator database).
+
+‘PRODUCT FAMILY": corresponds to the different products set up.
+Shows are the products of particular interest to us: they are marked in capital letters and have a complex price structure. Shows with free admission or a single price are added to our programme.
+Services’ are lighter events (conferences, debates, meetings, courses, shuttles), often free of charge.
+There are also ‘subscriptions’, ‘gift vouchers’ and sometimes ‘packages’ (which combine several elements).
+
+‘DOSSIER': a dossier is a reservation/sale, in the name of one or more people, for one or more shows.
+
+‘ORDER": each modification to a reservation (i.e. a file) results in the creation of a new order.
+
+‘CLOSING DATE AND ORDER TIME": This column shows the last printout of the ticket. When there is only one operation (an online purchase for example), this information gives the time the ticket was purchased.
+
+
+‘PURCHASING OPERATOR": Operator who made the sale (with his acronym). MAO / LEM / LNE / ARU work in the back office, the others are counter staff.
+If the operator is ‘VIDY_TICKSHOP’, it's an online purchase. If it is ‘VIDY_TICKDEC’, it is a specific online sales channel. If it is ‘VIDY_TICKINT’, it is an online sales channel reserved for interns (since deleted). If it is ‘VIDY_TICKPRO’, it is an online sales channel reserved for professionals (since deleted). Finally, ‘VIDY_PYT’ is the operator used at our second point of sale, Payot Lausanne.
+
+‘DATE TIME OF PRODUCT": date and time of the performance.
+
+PRICE’ is the internal name of the price, the amount is indicated in “UNIT PRICE”.
+
+ALL CONTACTS ANONYMISED’ file: from column Q onwards, these are “criteria”, i.e. indications that people have given us (e.g. willingness to receive a particular communication), or that we have attributed to them (interest in ecology, etc.).
+
+
+THERE ARE MANY SPECIFIC CASES: don't hesitate to ask us questions!
+
